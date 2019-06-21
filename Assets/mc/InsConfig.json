@@ -1,0 +1,25 @@
+{
+    "guitar":{
+        "threshold":0.1,
+        "runningThreshold":0.1,
+        "delay" : 1000.0,
+        "isDiscrete":true,
+        "backSwing":1
+    },
+    "drums":
+    {
+      "threshold":0.13,
+      "runningThreshold":0.05,
+      "delay":1000.0,
+      "isDiscrete":false,
+      "backSwing":2
+    },
+    "keyboard":
+    {
+        "threshold":0.10,
+        "runningThreshold":0.05,
+        "delay":1000.0,
+        "isDiscrete":false,
+        "backSwing":2
+    }
+}

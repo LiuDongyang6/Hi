@@ -1,0 +1,25 @@
+{
+    "up":{
+        "threshold":0.2,
+        "runningThreshold":0.0,
+        "delay" : 2000.0,
+        "isDiscrete":true,
+        "backSwing":1
+    },
+    "down":
+    {
+      "threshold":0.08,
+      "runningThreshold":0.0,
+      "delay":2000.0,
+      "isDiscrete":true,
+      "backSwing":1
+    },
+    "pop":
+    {
+        "threshold":0.15,
+        "runningThreshold":0.0,
+        "delay":2000.0,
+        "isDiscrete":true,
+        "backSwing":2
+    }
+}
